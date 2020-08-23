@@ -3,10 +3,10 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Facerain">
 
 #### Hi there 😁
-##### I'm Yongwoo Song, Developer
-### Interest
+##### I'm Yongwoo Song🎉, want to be an Influential Programmer.
+### My Interest
 - Natural Language Processing
-- Neural Machine Translation System
+- Neural Machine Translation System (**Now**😊)
 - Database Architecture
 - Open Source Contributing
 <!--
