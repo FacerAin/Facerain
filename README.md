@@ -1,5 +1,11 @@
 ### Hi there 👋
+
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Facerain)](https://github.com/anuraghazra/github-readme-stats)
+
+### Interest
+- Natural Language Processing
+- Neural Machine Translation System
+- Database Architecture
 
 <!--
 **FacerAin/Facerain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
