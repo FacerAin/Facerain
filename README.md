@@ -3,7 +3,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Facerain">
 
 #### Hi there 😁
-##### I'm Yongwoo Song🎉, Want to be an Influential Programmer.
+##### I'm Yongwoo Song🎉, Want to be an _Influential Programmer_.
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://facerain.github.io/)](https://facerain.github.io/) 
 ### My Interest
 - Natural Language Processing
