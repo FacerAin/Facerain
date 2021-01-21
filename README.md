@@ -6,8 +6,9 @@
 ##### I'm Yongwoo Song🎉, Want to be an _Influential Programmer_.
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://facerain.github.io/)](https://facerain.github.io/) 
 ### My Interest
+- Cloud Computing System (**Now**😊)
 - Natural Language Processing
-- Neural Machine Translation System (**Now**😊)
+- Neural Machine Translation System 
 - Database Architecture
 - Open Source Contributing
 <!--
