@@ -10,7 +10,7 @@
 ### My Interest
 - Cloud Computing System (**Now**😊)
 - Natural Language Processing
-- Neural Machine Translation System 
+- Korean Language Model
 - Database Architecture
 - Open Source Contributing
 <!--
