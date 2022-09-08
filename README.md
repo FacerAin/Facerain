@@ -10,8 +10,7 @@
 - Cloud Computing System 
 - Natural Language Processing (**Now**😊)
 - Korean Language Model
-- Database Architecture
-- Open Source Contributing
+- K8S & Load Balancing
 <!--
 **FacerAin/Facerain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
