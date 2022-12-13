@@ -12,7 +12,7 @@
 - Natural Language Processing
 - MLOps 
 - Cloud Computing System 
-- Pythonic code
+- Open Source Contributing
 <!--
 **FacerAin/Facerain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
