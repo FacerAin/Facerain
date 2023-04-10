@@ -8,10 +8,10 @@
 
 
 ### My Interest
-
-- Natural Language Processing
-- MLOps 
+🔥**Better code, Better culture.**
+- Natural Language Processing & MLOps 
 - Cloud Computing System 
+- Design Pattern & Architecture
 - Open Source Contributing
 <!--
 **FacerAin/Facerain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
