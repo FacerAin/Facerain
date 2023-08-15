@@ -10,7 +10,6 @@
 ### My Interest
 🔥**Better code, Better culture.**
 - Natural Language Processing & MLOps 
-- Cloud Computing System 
 - Design Pattern & Architecture
 - Open Source Contributing
 <!--
