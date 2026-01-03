@@ -7,7 +7,6 @@
 
 
 ### My Interest
-🔥**Better code, Better culture.**
 - Natural Language Processing
 - Open Source Contributing
 - Humanities
