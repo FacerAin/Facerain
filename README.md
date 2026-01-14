@@ -1,7 +1,6 @@
 
 
 
-##### I'm Yongwoo Song🎉, Want to be an _Non-Fungible Developer_.
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://facerain.github.io/facerain-blog/)](https://facerain.me/)
 
 
